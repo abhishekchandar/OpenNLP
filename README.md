@@ -7,3 +7,7 @@ NLP text analysis using OpenNLP Java API
 - Convert to Maven project
 - Build the packages
 - Check if the necessary OpenNLP dependencies reflect on the Maven dependencies
+
+**Official documentations**
+- http://opennlp.sourceforge.net/models-1.5/
+- https://opennlp.apache.org/docs/
